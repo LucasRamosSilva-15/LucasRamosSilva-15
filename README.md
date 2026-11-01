@@ -85,9 +85,9 @@ Uso IA para acelerar experimentos e dar vida às minhas ideias, procurando **ent
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=LucasRamosSilva-15&show_icons=true&theme=transparent&hide_border=true&title_color=1678C8&text_color=67B6D9&icon_color=59B766&locale=pt-br)
+![Estatísticas](https://github-stats-extended.vercel.app/api?username=LucasRamosSilva-15&show_icons=true&theme=transparent&hide_border=true&title_color=1678C8&text_color=67B6D9&icon_color=59B766&locale=pt-br)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRamosSilva-15&layout=compact&theme=transparent&hide_border=true&title_color=1678C8&text_color=67B6D9&langs_count=8)
+![Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=LucasRamosSilva-15&layout=compact&theme=transparent&hide_border=true&title_color=1678C8&text_color=67B6D9&langs_count=8)
 
 ![Sequência de contribuições](https://streak-stats.demolab.com?user=LucasRamosSilva-15&theme=transparent&hide_border=true&ring=1678C8&fire=59B766&currStreakLabel=1678C8&sideLabels=1678C8)
 
