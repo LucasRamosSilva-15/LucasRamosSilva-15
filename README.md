@@ -1,132 +1,122 @@
+<div align="center">
 
-## 👨‍💻 Sobre mim
+![Aero header](https://capsule-render.vercel.app/api?type=waving&color=0:063B79,45:1678C8,75:4BD9F6,100:A9ECFF&height=230&section=header&text=Lucas%20Ramos%20Silva&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Developer%20in%20progress%20%7C%20Software%20%26%20UI%20Engineering&descAlignY=59&descSize=15&animation=fadeIn)
 
-Olá! Sou **Lucas Ramos Silva**, estudante do **3º ano do Ensino Médio integrado ao Curso Técnico em Informática do IFPB — Campus Campina Grande (PB)**.
+**🪟 Aero Glass • 🌿 Frutiger Aero • 💻 Engenharia de Software • 🤖 IA aplicada ao desenvolvimento**
 
-Sou apaixonado por tecnologia, desenvolvimento de software, design de interfaces e pela possibilidade de transformar ideias em aplicações reais.
+[![GitHub](https://img.shields.io/badge/GitHub-063B79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasRamosSilva-15)
+[![Projetos](https://img.shields.io/badge/Explorar_Projetos-1678C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasRamosSilva-15?tab=repositories)
 
-Meu objetivo profissional é me tornar **Arquiteto de Software**, desenvolvendo conhecimentos sólidos em programação, arquitetura de sistemas, engenharia de software e tecnologias modernas.
-
-🎓 **Meus próximos passos acadêmicos:**
-- Pretendo cursar **Engenharia de Computação no IFPB — Campus Campina Grande** ou **Ciência da Computação na UFCG**.
-- Quero aprofundar meus conhecimentos em algoritmos, estruturas de dados, arquitetura de software, sistemas operacionais e engenharia de software.
-- Busco desenvolver uma base técnica cada vez mais independente e consistente.
-
-> Acredito que bons softwares nascem da combinação entre criatividade, conhecimento técnico, organização e melhoria contínua.
+</div>
 
 ---
 
-## 🎨 Minha paixão por interfaces e design
+## 💠 Sobre mim
 
-Tenho grande interesse pelo **Skeuomorphism evoluído**, uma abordagem que combina profundidade visual, materiais realistas e interações intuitivas com tecnologias modernas.
+Sou **Lucas Ramos Silva**, estudante do **3º ano do Ensino Médio integrado ao Técnico em Informática do IFPB — Campus Campina Grande**. Tenho paixão por transformar ideias em software: aplicações web, interfaces, ferramentas desktop e experimentos gráficos.
 
-Sou especialmente inspirado pela estética **Windows 7 Aero**, incluindo seus efeitos de vidro, transparência, reflexos, iluminação e sensação de materialidade.
+Quero seguir carreira como **arquiteto de software** e pretendo cursar **Engenharia de Computação no IFPB Campina Grande** ou **Ciência da Computação na UFCG**. Estou construindo meus fundamentos de programação, projeto de sistemas e engenharia de software, passo a passo.
 
-Meus interesses incluem:
+- 🎨 **Design:** gosto de *skeuomorphism evoluído*, Windows 7 Aero e Frutiger Aero — vidro, reflexos, volume, luz e usabilidade.
+- 🧠 **Aprendizado:** tenho boa afinidade com lógica de programação e continuo aprofundando frameworks e conceitos avançados.
+- 🤖 **IA:** exploro ferramentas e técnicas de desenvolvimento assistido por IA para prototipar, estudar e aumentar a produtividade.
+- 🔎 **Método:** trabalho por iterações, revisando o que construo e buscando melhorar qualidade, organização e desempenho.
+- 🛠️ **Experiência:** já trabalhei em projetos com aproximadamente **10 mil a 50 mil linhas de código**, inclusive com assistência de IA. Ainda estou desenvolvendo autonomia técnica em sistemas maiores.
 
-- 🪟 **Aero Glass e Frutiger Aero:** transparências, cores vibrantes e interfaces expressivas.
-- 💎 **Skeuomorphism evoluído:** superfícies com profundidade, volume, reflexos e comportamento visual.
-- 🌈 **Interfaces modernas:** integração entre beleza, legibilidade, desempenho e usabilidade.
-- 🖥️ **Desktop environments:** interesse em Qt, Linux, Wayland e composição gráfica.
-- ✨ **Design systems:** criação de linguagens visuais consistentes e reutilizáveis.
-
-Meu objetivo é explorar uma experiência visual que vá além do design plano, sem sacrificar acessibilidade, clareza ou desempenho.
+> **Minha filosofia:** criatividade para começar, lógica para estruturar e aprendizado contínuo para melhorar.
 
 ---
 
-## 🤖 Inteligência Artificial e desenvolvimento
+## 🌊 Projetos em destaque
 
-A Inteligência Artificial faz parte do meu processo de aprendizado, prototipagem e desenvolvimento de software.
+### 🪟 [Systalia Glass Engine](https://github.com/LucasRamosSilva-15/systalia-glass-engine)
 
-Tenho interesse em **AI-assisted development**, engenharia de prompts, organização de contexto e técnicas para melhorar a qualidade dos resultados produzidos com ferramentas de IA.
+Compositor Wayland e shell gráfica experimental para Linux, com **Qt Quick**, renderização via **Vulkan** e materiais ópticos **VALO**. Pesquisa de interfaces desktop com refração, profundidade e efeitos de vidro.
 
-### 🧠 Ferramentas que exploro
+![C++23](https://img.shields.io/badge/C++23-063B79?style=flat-square&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt_6-1678C8?style=flat-square&logo=qt&logoColor=white) ![Vulkan](https://img.shields.io/badge/Vulkan-4DAED9?style=flat-square&logo=vulkan&logoColor=white) ![Wayland](https://img.shields.io/badge/Wayland-063B79?style=flat-square) ![CMake](https://img.shields.io/badge/CMake-1678C8?style=flat-square&logo=cmake&logoColor=white)
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Google](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Stitch](https://img.shields.io/badge/Google_Stitch-34A853?style=for-the-badge&logo=google&logoColor=white)
+> 🚧 Experimental e em desenvolvimento; não é ainda um ambiente desktop pronto para produção.
 
-### ⚡ Minha metodologia com IA
+### 🌱 [WebFarm 2.0](https://github.com/LucasRamosSilva-15/Projeto_WEBII_WebFarm)
 
-- **Engenharia de prompts:** escrever instruções detalhadas, claras e estruturadas.
-- **Decomposição de problemas:** dividir projetos complexos em tarefas menores e verificáveis.
-- **Desenvolvimento iterativo:** analisar, corrigir e melhorar os resultados progressivamente.
-- **Uso de contexto:** fornecer requisitos, arquitetura, exemplos e restrições para orientar as ferramentas.
-- **Prototipagem assistida:** transformar conceitos em interfaces e funcionalidades.
-- **Revisão crítica:** identificar limitações, inconsistências e oportunidades de melhoria no código gerado.
+Plataforma full-stack para gestão agropecuária, reunindo propriedades, animais, lavouras, maquinários, equipes e controle financeiro. Inclui API REST, documentação e testes.
 
-> Para mim, a IA é uma ferramenta para ampliar minha capacidade de criar e aprender, não um substituto para compreender os fundamentos da programação.
+![React](https://img.shields.io/badge/React-1678C8?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-59B766?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-063B79?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-4DAED9?style=flat-square&logo=sqlite&logoColor=white)
 
----
+[Ver aplicação](https://projeto-webii-web-farm.vercel.app) • [Ver código](https://github.com/LucasRamosSilva-15/Projeto_WEBII_WebFarm)
 
-## 🧩 Minha experiência e meu aprendizado
+### 💬 [SkyRipple — WebChat](https://github.com/LucasRamosSilva-15/WebChat)
 
-Estou no início da minha trajetória como desenvolvedor e tenho consciência de que ainda existe muito a aprender.
+Plataforma de comunicação em tempo real para web e Android, com salas, conversas privadas, autenticação e recursos de personalização. Experimento de full-stack e identidade visual inspirada no Web 2.0 Gloss.
 
-Já participei da construção de projetos com aproximadamente **10 mil a 50 mil linhas de código**, incluindo aplicações web, interfaces e experimentos de software.
-
-Essas experiências envolvem desenvolvimento assistido por IA, organização de funcionalidades, integração entre componentes e ciclos de revisão.
-
-Ainda não trabalhei com projetos de 100 mil linhas ou mais, nem considero que o tamanho do código, isoladamente, determine a complexidade ou a qualidade de um sistema.
-
-### 💡 Meus pontos fortes
-
-- Boa base de raciocínio lógico e lógica de programação.
-- Criatividade para idealizar sistemas e experiências digitais.
-- Interesse por arquitetura, organização e qualidade de software.
-- Persistência na identificação e correção de problemas.
-- Facilidade para explorar conceitos visuais e propor melhorias.
-- Interesse em utilizar ferramentas de IA de maneira estratégica.
-
-### 📚 O que estou desenvolvendo
-
-Ainda encontro dificuldades com conceitos mais avançados de tecnologias como **Node.js, React, Next.js, Tailwind CSS e Django**.
-
-Embora já utilize essas tecnologias em projetos, estou fortalecendo minha capacidade de compreendê-las, programar com mais autonomia e resolver problemas sem depender excessivamente de ferramentas de IA.
-
-Meu foco atual é **dar vida às minhas ideias enquanto construo uma base técnica cada vez mais sólida**.
+![React](https://img.shields.io/badge/React-1678C8?style=flat-square&logo=react&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-063B79?style=flat-square&logo=socketdotio&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-4DAED9?style=flat-square&logo=capacitor&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-59B766?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
-## 🔍 Minha filosofia de desenvolvimento
+## 💻 Tecnologias que utilizo e estudo
 
-Acredito na **melhoria contínua** como princípio fundamental.
+**Web e interfaces**
 
-Não gosto de entregar algo que considero mal resolvido. Procuro identificar os problemas, entender suas causas e aprimorar o resultado até alcançar um padrão de qualidade satisfatório.
+![HTML](https://img.shields.io/badge/HTML5-1678C8?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1678C8?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1678C8?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-1678C8?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-1678C8?style=flat-square&logo=react&logoColor=white) ![Next](https://img.shields.io/badge/Next.js-1678C8?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-1678C8?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Minha forma de trabalhar é guiada por quatro princípios:
+**Back-end e dados**
 
-**01. Criatividade** — imaginar possibilidades e transformar ideias em soluções.
+![Node](https://img.shields.io/badge/Node.js-063B79?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-063B79?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-063B79?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-063B79?style=flat-square&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-063B79?style=flat-square&logo=sqlite&logoColor=white)
 
-**02. Qualidade** — buscar código organizado, interfaces consistentes e funcionalidades confiáveis.
+**Desktop, computação gráfica e ferramentas**
 
-**03. Iteração** — experimentar, avaliar, corrigir e refinar continuamente.
+![C++](https://img.shields.io/badge/C++-4DAED9?style=flat-square&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-4DAED9?style=flat-square&logo=qt&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-4DAED9?style=flat-square&logo=linux&logoColor=white) ![Vulkan](https://img.shields.io/badge/Vulkan-4DAED9?style=flat-square&logo=vulkan&logoColor=white) ![Git](https://img.shields.io/badge/Git-4DAED9?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-4DAED9?style=flat-square&logo=figma&logoColor=white)
 
-**04. Aprendizado** — reconhecer limitações e estudar para superá-las.
-
-Sei que a busca por qualidade também exige equilíbrio: aprender a definir prioridades, administrar a complexidade e reconhecer quando uma solução está suficientemente boa faz parte da minha evolução.
+**Nota:** utilizar uma tecnologia em um projeto não significa dominá-la. Estou aprofundando especialmente **Node.js, React, Tailwind CSS, Next.js e Django** e minha capacidade de programar de maneira mais autônoma.
 
 ---
 
-## 🎯 Meus objetivos
+## 🤖 IA como ferramenta de aprendizado e produtividade
 
-- 🎓 Ingressar no ensino superior em Engenharia de Computação ou Ciência da Computação.
-- 🏗️ Construir uma carreira como Arquiteto de Software.
-- 💻 Aprofundar meus conhecimentos em programação e engenharia de software.
-- 🧠 Fortalecer minha autonomia técnica, mesmo utilizando IA no desenvolvimento.
-- 🪟 Explorar interfaces inspiradas no Aero Glass e no skeuomorphism evoluído.
-- 🚀 Desenvolver projetos cada vez mais completos, organizados e escaláveis.
-- 🌐 Compartilhar conhecimento e contribuir com a comunidade de desenvolvimento.
+Exploro **ChatGPT, Gemini, Google Antigravity IDE e Stitch**, além de práticas como engenharia de prompts, decomposição de problemas, contextualização de tarefas, prototipagem assistida e ciclos de revisão.
+
+Uso IA para acelerar experimentos e dar vida às minhas ideias, procurando **entender, testar e melhorar** os resultados em vez de apenas aceitar código gerado.
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-063B79?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-1678C8?style=flat-square&logo=googlegemini&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4DAED9?style=flat-square&logo=google&logoColor=white) ![Stitch](https://img.shields.io/badge/Stitch-59B766?style=flat-square&logo=google&logoColor=white)
+
+---
+
+## 📊 GitHub em números
+
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=LucasRamosSilva-15&show_icons=true&theme=transparent&hide_border=true&title_color=1678C8&text_color=67B6D9&icon_color=59B766&locale=pt-br)
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRamosSilva-15&layout=compact&theme=transparent&hide_border=true&title_color=1678C8&text_color=67B6D9&langs_count=8)
+
+![Sequência de contribuições](https://streak-stats.demolab.com?user=LucasRamosSilva-15&theme=transparent&hide_border=true&ring=1678C8&fire=59B766&currStreakLabel=1678C8&sideLabels=1678C8)
+
+</div>
+
+> Os cartões dependem de serviços externos e podem apresentar instabilidade temporária. As linguagens refletem o código dos repositórios, não um nível de domínio pessoal.
+
+---
+
+## 🎯 Próximos passos
+
+- 🎓 Cursar **Engenharia de Computação (IFPB-CG)** ou **Ciência da Computação (UFCG)**.
+- 🏗️ Evoluir em arquitetura de software, algoritmos, testes e manutenção de sistemas.
+- 🌊 Explorar um **skeuomorphism evoluído** inspirado no Windows Aero e no Frutiger Aero.
+- 🧩 Equilibrar criatividade, produtividade com IA e conhecimento técnico independente.
+- 🚀 Criar projetos cada vez mais sólidos, utilizáveis e bem documentados.
 
 ---
 
 <div align="center">
 
-### 🌟 Minha jornada está apenas começando.
+### 🌤️ Vamos construir algo interessante?
 
-*Não preciso saber tudo hoje. Preciso continuar aprendendo, construindo e evoluindo.*
+[![GitHub](https://img.shields.io/badge/Meus_repositórios-1678C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasRamosSilva-15?tab=repositories)
 
-**Lucas Ramos Silva**
+<!-- Acrescente LinkedIn, site e e-mail aqui quando decidir quais links divulgar. -->
+
+**Criatividade para imaginar. Lógica para construir. Curiosidade para evoluir.**
+
+![Aero footer](https://capsule-render.vercel.app/api?type=waving&color=0:063B79,45:1678C8,75:4BD9F6,100:A9ECFF&height=110&section=footer)
 
 </div>
