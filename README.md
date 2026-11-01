@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aero header](https://capsule-render.vercel.app/api?type=waving&color=0:063B79,45:1678C8,75:4BD9F6,100:A9ECFF&height=230&section=header&text=Lucas%20Ramos%20Silva&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Developer%20in%20progress%20%7C%20Software%20%26%20UI%20Engineering&descAlignY=59&descSize=15&animation=fadeIn)
+![Lucas Ramos Silva — Aero Glass](assets/aero-header.svg)
 
 **🪟 Aero Glass • 🌿 Frutiger Aero • 💻 Engenharia de Software • 🤖 IA aplicada ao desenvolvimento**
 
@@ -117,6 +117,6 @@ Uso IA para acelerar experimentos e dar vida às minhas ideias, procurando **ent
 
 **Criatividade para imaginar. Lógica para construir. Curiosidade para evoluir.**
 
-![Aero footer](https://capsule-render.vercel.app/api?type=waving&color=0:063B79,45:1678C8,75:4BD9F6,100:A9ECFF&height=110&section=footer)
+![Rodapé Frutiger Aero](assets/aero-footer.svg)
 
 </div>
