@@ -113,10 +113,6 @@ Uso IA para acelerar experimentos e dar vida às minhas ideias, procurando **ent
 
 [![GitHub](https://img.shields.io/badge/Meus_repositórios-1678C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasRamosSilva-15?tab=repositories)
 
-<!-- Acrescente LinkedIn, site e e-mail aqui quando decidir quais links divulgar. -->
-
-**Criatividade para imaginar. Lógica para construir. Curiosidade para evoluir.**
-
 ![Rodapé Frutiger Aero](assets/aero-footer.svg)
 
 </div>
